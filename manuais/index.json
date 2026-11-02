@@ -1,0 +1,9 @@
+{
+  "manuals": [
+    {
+      "file": "guia-de-instalacao-do-conector.pdf",
+      "title": "Guia de instalação do conector",
+      "description": "Rede com IP fixo, instalação no computador, configuração do ecógrafo e primeiro teste."
+    }
+  ]
+}
